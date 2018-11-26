@@ -15,7 +15,7 @@ public class CameraRotation : MonoBehaviour {
     void Start()
     {
 
-        offsetX = new Vector3(0, height, distance);
+        offsetX = new Vector3(12, height, distance);
     }
 
     void LateUpdate()
